@@ -10,6 +10,7 @@
   flex-direction: column;
   align-items: center;
   transition: box-shadow 0.2s;
+  color: blue;
 }
 
 .card-container img {
