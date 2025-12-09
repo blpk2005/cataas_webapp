@@ -59,7 +59,7 @@ npm run build
 
 I had deployed the build folder to:
 
-Vercel: 
+Vercel: https://cataas-webapp.vercel.app/
 
 🔗 API Used
 
