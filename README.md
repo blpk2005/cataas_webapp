@@ -23,7 +23,8 @@ JavaScript (Fetch API)	Calling CATAAS API
 Vite	Development server + build tool
 📸 Screenshot
 
-<img width="1440" height="900" alt="Screenshot 2025-12-10 at 12 21 17 AM" src="https://github.com/user-attachments/assets/cef74f36-98a8-4c6d-9afa-09bf886f6f17" />
+<img width="1440" height="857" alt="Screenshot 2025-12-10 at 12 43 55 AM" src="https://github.com/user-attachments/assets/8a07f860-fd6a-4fa8-96e5-382c0311a19d" />
+
 
 
 📦 Installation & Setup
