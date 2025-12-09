@@ -16,11 +16,18 @@ Built using the public CATAAS API
 Fast development and build using Vite
 
 🛠️ Tech Stack
+
 Technology	Purpose
+
 HTML5	UI structure
+
 CSS3	Styling and layout
+
+
 JavaScript (Fetch API)	Calling CATAAS API
+
 Vite	Development server + build tool
+
 📸 Screenshot
 
 <img width="1440" height="857" alt="Screenshot 2025-12-10 at 12 43 55 AM" src="https://github.com/user-attachments/assets/8a07f860-fd6a-4fa8-96e5-382c0311a19d" />
@@ -65,6 +72,7 @@ fetch("https://cataas.com/cat")
 
 📁 Project Structure
 cataas_webapp/
+
 │── index.html
 
 │── style.css
