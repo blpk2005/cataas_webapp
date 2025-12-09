@@ -1,16 +1,74 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🐱 Cataas Web App
 
-Currently, two official plugins are available:
+A simple and fun web application that fetches random cat images using the Cat-as-a-Service (CATAAS) API.
+Built with HTML, CSS, JavaScript, and powered by Vite for fast development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+Fetch random cat images instantly
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean and responsive UI
 
-## Expanding the ESLint configuration
+Built using the public CATAAS API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fast development and build using Vite
+
+🛠️ Tech Stack
+Technology	Purpose
+HTML5	UI structure
+CSS3	Styling and layout
+JavaScript (Fetch API)	Calling CATAAS API
+Vite	Development server + build tool
+📸 Screenshot
+
+<img width="1440" height="900" alt="Screenshot 2025-12-10 at 12 21 17 AM" src="https://github.com/user-attachments/assets/cef74f36-98a8-4c6d-9afa-09bf886f6f17" />
+
+
+📦 Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/blpk2005/cataas_webapp.git
+cd cataas_webapp
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Start the development server
+npm run dev
+
+
+Vite will show the local URL, usually:
+
+http://localhost:5173/
+
+🏗️ Build for Production
+npm run build
+
+🌐 Deploying
+
+I had deployed the build folder to:
+
+Vercel: 
+
+🔗 API Used
+
+CATAAS API: https://cataas.com/
+
+Used to fetch random cat images.
+
+Sample API call:
+
+fetch("https://cataas.com/cat")
+
+📁 Project Structure
+cataas_webapp/
+│── index.html
+│── style.css
+│── main.js
+│── vite.config.js
+└── package.json
+
+🙌 Author
+
+Pavan
