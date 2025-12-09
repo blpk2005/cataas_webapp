@@ -28,6 +28,7 @@ Vite	Development server + build tool
 
 
 📦 Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/blpk2005/cataas_webapp.git
 cd cataas_webapp
@@ -65,9 +66,13 @@ fetch("https://cataas.com/cat")
 📁 Project Structure
 cataas_webapp/
 │── index.html
+
 │── style.css
+
 │── main.js
+
 │── vite.config.js
+
 └── package.json
 
 🙌 Author
